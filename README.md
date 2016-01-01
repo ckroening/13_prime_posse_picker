@@ -19,4 +19,3 @@ Add in an additional set of buttons that allows for team size, in addition to th
 
 ##Pro Mode
 Write unit tests using QUnit.
-# 13_prime_posse_picker
